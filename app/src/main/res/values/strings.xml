@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudentBeans</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="log_in_message">Log in to your Student Beans account</string>
+    <string name="button_log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="incorrect_email_message">Please provide a correct email address</string>
+    <string name="photos">Photos</string>
+</resources>
